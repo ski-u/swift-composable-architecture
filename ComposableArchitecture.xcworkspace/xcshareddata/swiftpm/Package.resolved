@@ -84,11 +84,11 @@
       },
       {
         "package": "swiftui-navigation",
-        "repositoryURL": "https://github.com/pointfreeco/swiftui-navigation",
+        "repositoryURL": "https://github.com/ski-u/swiftui-navigation",
         "state": {
-          "branch": null,
-          "revision": "4b666bcc59ba1711a7543ecb37e1d181963b180c",
-          "version": "0.4.2"
+          "branch": "fix-alert-button-init-action",
+          "revision": "12d4db6cd06ebdc439f6b53f43521213e0fa2879",
+          "version": null
         }
       },
       {
